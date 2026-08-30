@@ -1,0 +1,1912 @@
+{
+	"groups": [
+		{
+			"keys": "word_login_0002_png,word_login_0003_png,dot_yellow_png,dot_red_png,dot_green_png,dot_gray_png,btn_LoginPanel_0002_png,btn_LoginPanel_0001_png,bg_LoginPanel_0006_png,bg_LoginPanel_0005_png,bg_LoginPanel_0004_png,bg_LoginPanel_0003_png,bg_LoginPanel_0002_png,bg_LoginPanel_0001_png,home_btn_smrz02_png,home_btn_kffk_png,home_btn_gg_png,home_btn_grzx_01_png,bg_hero_019_png,panel_shadow_png,common_118_png,common_114_png,common_029_png,common_028_png,common_027_png,common_026_png,common_024_png,common_022_png,common_0037_png,common_0034_png,button_up_png,reconnect_png,home_btn_qlhc_png,home_btn_discord_png,home_btn_facebook_png,home_btn_cafe_png",
+			"name": "login"
+		},
+		{
+			"keys": "float_font_fnt,emoji_json,m116_tex_png,m116_mc_json,home_btn_zb_png,bg_afk_0016_png,bg_home_0003_png,icon_home_0001_png,common_0008_png,bg_home_0010_png,home_bg_small_jpg,bg_svip_003_png,btn_eqm_001_png,bg_guide_0003_png,bg_guide_0005_png,boss_png,dialog2_png,finger_png,m0056_tex_png,m0056_mc_json,bg_pet_home_0005_png,btn_word_home_0011_png,6_png,12001_png,b3001_ske_dbbin,b3001_tex_png,b3005_tex_png,b3100_ske_dbbin,b3100_tex_png,bg_afk_001_png,bg_afk_0022_png,bg_bag_0006_png,bg_champion_challenge_0006_png,bg_hero_002_png,bg_hero_0010_png,bg_hero_0014_png,bg_hero_0096_png,bg_hero_0097_png,bg_hero_0098_png,bg_hero_0099_png,bg_hero_0100_png,bg_hero_0108_png,bg_hero_0115_png,bg_hero_0116_png,bg_hero_0117_png,bg_loginin_0001_png,bg_role_0041_png,bg_role_0042_png,bg_tower_0006_png,bg_trainer_treasure_004_png,bg_trainer_treasure_006_png,bg002_ske_dbbin,bg002_tex_png,bg003_ske_dbbin,bg003_tex_png,btn_array_001_png,btn_array_002_png,common_0010_png,common_0051_png,common_0055_png,de1001_ske_dbbin,common_133_png,common_140_png,de1001_tex_png,dhh1001_ske_dbbin,dhh1001_tex_png,h00601_ske_dbbin,h00601_tex_png,hh1001_ske_dbbin,hh1001_tex_png,hh1003_ske_dbbin,hh1003_tex_png,icon_trainer_treasure_002_png,m0053_ske_dbbin,number_afk_fnt,range_hero_0008_png,shadow_s_png,word_array_006_png,word_array_009_png,word_bg_afk_0021_png,word_common_0054_png,word_common_0055_png,1_png,2_png,28_png,32_png,97_png,41101_png,actor_png,13000_png,bar_fight_0002_png,bar_fight_0001_png,bar_fight_0003_png,m0053_tex_png,bg_afk_000004_png,bg_afk_000005_png,bg_afk_000006_png,bg_afk_0021_png,bg_cashgift_001_png,bg_cashgift_002_png,bg_cashgift_003_png,bg_cashgift_005_png,bg_cashgift_004_png,bg_champion_challenge_0001_png,bg_champion_challenge_0002_png,bg_champion_challenge_0003_png,bg_champion_challenge_0004_png,bg_champion_challenge_0005_png,bg_first_charge_0005_png,bg_guide_0004_png,bg_egg_0014_png,bg_heart_soul_0001_png,bg_hero_0032_png,bg_hero_0040_png,bg_hero_0091_png,bg_afk_0011_png,bg_hero_0092_png,bg_hero_0112_png,bg_maze_0012_png,bg_mission_task_0001_png,bg_mission_task_0002_png,bg_mission_task_0003_png,bg_quick_claw_0001_png,bg_ring_0001_png,bg_role_0032_png,bg_mission_task_0004_png,bg_svip_001_png,bg_tower_0005_png,bg_train_tower_0004_png,bg_word_afk_00007_png,bg_word_cashgift_001_png,bg_word_cashgift_002_png,bg_word_limit_warorder_003_png,bg_word_mission_task_0001_png,bg_word_svip_002_png,btn_afk_00022_png,btn_cashgift_001_png,btn_ring_0001_png,btn_cashgift_002_png,btn_word_array_0001_png,c001_ske_dbbin,c001_tex_png,common_001_png,common_006_png,common_08_png,common_008_png,common_009_png,common_010_png,common_021_png,common_023_png,common_030_png,common_0043_png,common_105_png,common_116_png,common_124_png,common_125_png,common_126_png,common_127_png,common_134_png,common_135_png,common_136_png,common_137_png,common_141_png,common_142_png,common_143_png,common_144_png,dialog1_png,common_156_png,feiting_ske_dbbin,feiting_tex_png,float_damage_png,gonghui_ske_dbbin,gonghui_tex_png,home_btn_bugwc_png,home_btn_cmlx_png,home_btn_czlb_png,home_btn_cztq_png,home_btn_gjzl_png,home_btn_gjtz_1_png,home_btn_jlt_png,home_btn_qjzp_png,home_btn_rcrw_png,home_btn_sc_png,home_btn_sxj_png,home_btn_tkzz_png,home_btn_tq_png,home_btn_xshd_png,jinhuachi_ske_dbbin,jinhuachi_tex_png,m0016_ske_dbbin,m0016_tex_png,m0033_tex_png,m0033_ske_dbbin,m0043_ske_dbbin,m0043_tex_png,m0047_ske_dbbin,m0047_tex_png,m102_tex_png,map_101_jpg,map_102_png,map_103_png,map_104_png,map_cloud_png,niao_ske_dbbin,niao_tex_png,niudan_ske_dbbin,niudan_tex_png,number_hero_fnt,paimai_ske_dbbin,paimai_tex_png,range_hero_0001_png,shangdian_ske_dbbin,shangdian_tex_png,word_balance_0013_png,transparency_png,word_afk_0023_png,word_commen_0003_png,word_champion_challenge_0001_png,word_battle_tower_0002_png,word_hero_0020_png,yan_ske_dbbin,word_svip_charge_0012_png,word_vip_charge_0012_png,yan_tex_png,yunb_ske_dbbin,yunq_ske_dbbin,yunb_tex_png,yunq_tex_png,yuny_ske_dbbin,yuny_tex_png,30002_png,word_common_0061_png,bar_hero_0001_png,bg_afk_0005_png,bg_afk_0006_png,bg_afk_014_png,bg_afk_0007_png,bg_dailydun_0013_jpg,bg_elitefour_challenge_0003_png,bg_hero_0036_png,bg_hero_0046_png,bg_home_0005_png,bg_home_0014_png,bg_home_0023_png,bg_home_0015_png,bg_svip_005_png,bg_vip_charge_0006_png,bg_vip_charge_0007_png,bg_vip_charge_0014_png,bg_word_svip_003_png,btn_word_new_island_003_png,common_007_png,common_12_png,common_017_png,common_019_png,common_020_png,common_0040_png,common_0039_png,common_0053_png,common_0044_png,common_70_png,common_148_png,common_158_png,home_btn_grzx_png,home_btn_hy_png,home_btn_wybq_png,home_btn_yj_png,icon_word_viplb_png,icon_word_viptq_png,icon_word_vipzssd_png,icon_word_zs_png,nanhai_ske_dbbin,nanhai_tex_png,number_lucky_cat_fnt,number_lucky_cat_0012_png,nvhai_ske_dbbin,number_svip_fnt,nvhai_tex_png,p003_ske_dbbin,p003_tex_png,pangzi_ske_dbbin,pangzi_tex_png,vip_charge_fnt,word_direct_gift_0003_png,word_svip_charge_0011_png,word_vip_charge_0011_png,bar_LoginPanel_0001_png,bar_LoginPanel_0002_png,loginBg_jpg,m_401_tex_png,word_login_0001_png,b3001_tex_json,b3100_tex_json,bg003_tex_json,bg002_tex_json,dhh1001_tex_json,hh1001_tex_json,h00601_tex_json,hh1003_tex_json,m0053_tex_json,de1001_tex_json,feiting_tex_json,jinhuachi_tex_json,gonghui_tex_json,m0016_tex_json,m0033_tex_json,c001_tex_json,m0043_tex_json,m0047_tex_json,m102_mc_json,niao_tex_json,niudan_tex_json,yan_tex_json,shangdian_tex_json,yunb_tex_json,yunq_tex_json,paimai_tex_json,yuny_tex_json,nvhai_tex_json,p003_tex_json,pangzi_tex_json,m_401_ske_json,m_401_tex_json,nanhai_tex_json,big_png_sheet_json,bg_hero_0082_jpg,explore_bg_jpg",
+			"name": "game"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/gameui/common/common_114.png",
+			"type": "image",
+			"name": "common_114_png",
+			"scale9grid": "187,15,276,33"
+		},
+		{
+			"url": "assets/gameui/0_login/btn_LoginPanel_0001.png",
+			"type": "image",
+			"name": "btn_LoginPanel_0001_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0004.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0004_png",
+			"scale9grid": "32,16,192,100"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_smrz02.png",
+			"type": "image",
+			"name": "home_btn_smrz02_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_kffk.png",
+			"type": "image",
+			"name": "home_btn_kffk_png"
+		},
+		{
+			"url": "assets/gameui/common/common_022.png",
+			"type": "image",
+			"name": "common_022_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_gg.png",
+			"type": "image",
+			"name": "home_btn_gg_png"
+		},
+		{
+			"url": "assets/gameui/0_login/btn_LoginPanel_0002.png",
+			"type": "image",
+			"name": "btn_LoginPanel_0002_png"
+		},
+		{
+			"url": "assets/gameui/0_login/word_login_0002.png",
+			"type": "image",
+			"name": "word_login_0002_png"
+		},
+		{
+			"url": "assets/gameui/0_login/word_login_0003.png",
+			"type": "image",
+			"name": "word_login_0003_png"
+		},
+		{
+			"url": "assets/gameui/common/common_118.png",
+			"type": "image",
+			"name": "common_118_png"
+		},
+		{
+			"url": "assets/gameui/common/common_029.png",
+			"type": "image",
+			"name": "common_029_png",
+			"scale9grid": "1,3,8,8"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_019.png",
+			"type": "image",
+			"name": "bg_hero_019_png"
+		},
+		{
+			"url": "assets/gameui/common/panel_shadow.png",
+			"type": "image",
+			"name": "panel_shadow_png",
+			"scale9grid": "1,1,2,2"
+		},
+		{
+			"url": "assets/gameui/common/common_0037.png",
+			"type": "image",
+			"name": "common_0037_png",
+			"scale9grid": "22,36,412,4"
+		},
+		{
+			"url": "assets/gameui/common/common_024.png",
+			"type": "image",
+			"name": "common_024_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0001.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0001_png",
+			"scale9grid": "3,3,24,24"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0002.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0002_png"
+		},
+		{
+			"url": "assets/simple/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0005.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0005_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0003.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0003_png"
+		},
+		{
+			"url": "assets/gameui/common/common_027.png",
+			"type": "image",
+			"name": "common_027_png",
+			"scale9grid": "33,33,10,9"
+		},
+		{
+			"url": "assets/gameui/common/common_028.png",
+			"type": "image",
+			"name": "common_028_png",
+			"scale9grid": "71,33,429,35"
+		},
+		{
+			"url": "assets/gameui/0_login/dot_gray.png",
+			"type": "image",
+			"name": "dot_gray_png"
+		},
+		{
+			"url": "assets/gameui/0_login/dot_green.png",
+			"type": "image",
+			"name": "dot_green_png"
+		},
+		{
+			"url": "assets/gameui/0_login/dot_red.png",
+			"type": "image",
+			"name": "dot_red_png"
+		},
+		{
+			"url": "assets/gameui/0_login/dot_yellow.png",
+			"type": "image",
+			"name": "dot_yellow_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bg_LoginPanel_0006.png",
+			"type": "image",
+			"name": "bg_LoginPanel_0006_png",
+			"scale9grid": "79,28,16,0"
+		},
+		{
+			"url": "assets/gameui/common/common_026.png",
+			"type": "image",
+			"name": "common_026_png",
+			"scale9grid": "11,10,8,9"
+		},
+		{
+			"url": "assets/gameui/common/common_0034.png",
+			"type": "image",
+			"name": "common_0034_png"
+		},
+		{
+			"url": "assets/gameui/1_fight/float/float_font.fnt",
+			"type": "font",
+			"name": "float_font_fnt"
+		},
+		{
+			"url": "assets/gameui/1_fight/float/float_font.png",
+			"type": "image",
+			"name": "float_font_png"
+		},
+		{
+			"url": "assets/gameui/20_chat/emoji/emoji.json",
+			"type": "sheet",
+			"name": "emoji_json",
+			"subkeys": "&_10,&_11,&_12,&_13,&_14,&_15,&_16,&_17,&_18,&_19,&_20,&_21,&_22,&_23,&_24,&_25,&_26,&_27,&_28,&_29,&_30,&_31,&_32,&_33,&_34,&_35,&_36,&_37,&_38,&_39,&_40,&_41,&_42,&_43,&_44,&_45"
+		},
+		{
+			"url": "assets/bones/effect/m116_tex.png",
+			"type": "image",
+			"name": "m116_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m116_mc.json",
+			"type": "json",
+			"name": "m116_mc_json"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_zb.png",
+			"type": "image",
+			"name": "home_btn_zb_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_0016.png",
+			"type": "image",
+			"name": "bg_afk_0016_png",
+			"scale9grid": "22,11,83,7"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0003.png",
+			"type": "image",
+			"name": "bg_home_0003_png",
+			"scale9grid": "21,20,32,2"
+		},
+		{
+			"url": "assets/gameui/2_home/icon_home_0001.png",
+			"type": "image",
+			"name": "icon_home_0001_png",
+			"scale9grid": "21,5,28,34"
+		},
+		{
+			"url": "assets/gameui/common/common_0008.png",
+			"type": "image",
+			"name": "common_0008_png"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0010.png",
+			"type": "image",
+			"name": "bg_home_0010_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_bg_small.jpg",
+			"type": "image",
+			"name": "home_bg_small_jpg"
+		},
+		{
+			"url": "assets/gameui/33_act/63_svip/bg_svip_003.png",
+			"type": "image",
+			"name": "bg_svip_003_png"
+		},
+		{
+			"url": "assets/gameui/10_eqm/btn_eqm_001.png",
+			"type": "image",
+			"name": "btn_eqm_001_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/bg_guide_0003.png",
+			"type": "image",
+			"name": "bg_guide_0003_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/bg_guide_0005.png",
+			"type": "image",
+			"name": "bg_guide_0005_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/boss.png",
+			"type": "image",
+			"name": "boss_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/dialog2.png",
+			"type": "image",
+			"name": "dialog2_png",
+			"scale9grid": "40,44,63,46"
+		},
+		{
+			"url": "assets/gameui/28_guide/finger.png",
+			"type": "image",
+			"name": "finger_png"
+		},
+		{
+			"url": "assets/bones/effect/m0056_tex.png",
+			"type": "image",
+			"name": "m0056_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m0056_mc.json",
+			"type": "json",
+			"name": "m0056_mc_json"
+		},
+		{
+			"url": "assets/gameui/61_pet_home/bg_pet_home_0005.png",
+			"type": "image",
+			"name": "bg_pet_home_0005_png"
+		},
+		{
+			"url": "assets/gameui/2_home/btn_word_home_0011.png",
+			"type": "image",
+			"name": "btn_word_home_0011_png"
+		},
+		{
+			"url": "assets/icon/item/6.png",
+			"type": "image",
+			"name": "6_png"
+		},
+		{
+			"url": "assets/icon/head/pet/12001.png",
+			"type": "image",
+			"name": "12001_png"
+		},
+		{
+			"url": "assets/bones/effect/b3001_ske.dbbin",
+			"type": "bin",
+			"name": "b3001_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/b3001_tex.png",
+			"type": "image",
+			"name": "b3001_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/b3005_tex.png",
+			"type": "image",
+			"name": "b3005_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/b3100_ske.dbbin",
+			"type": "bin",
+			"name": "b3100_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/b3100_tex.png",
+			"type": "image",
+			"name": "b3100_tex_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_001.png",
+			"type": "image",
+			"name": "bg_afk_001_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_0022.png",
+			"type": "image",
+			"name": "bg_afk_0022_png"
+		},
+		{
+			"url": "assets/gameui/3_bag/bg_bag_0006.png",
+			"type": "image",
+			"name": "bg_bag_0006_png",
+			"scale9grid": "32,16,192,100"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0006.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0006_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_002.png",
+			"type": "image",
+			"name": "bg_hero_002_png",
+			"scale9grid": "80,38,351,22"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0010.png",
+			"type": "image",
+			"name": "bg_hero_0010_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0014.png",
+			"type": "image",
+			"name": "bg_hero_0014_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0096.png",
+			"type": "image",
+			"name": "bg_hero_0096_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0097.png",
+			"type": "image",
+			"name": "bg_hero_0097_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0098.png",
+			"type": "image",
+			"name": "bg_hero_0098_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0099.png",
+			"type": "image",
+			"name": "bg_hero_0099_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0100.png",
+			"type": "image",
+			"name": "bg_hero_0100_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0108.png",
+			"type": "image",
+			"name": "bg_hero_0108_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0115.png",
+			"type": "image",
+			"name": "bg_hero_0115_png",
+			"scale9grid": "25,19,21,24"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0116.png",
+			"type": "image",
+			"name": "bg_hero_0116_png",
+			"scale9grid": "6,0,41,48"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0117.png",
+			"type": "image",
+			"name": "bg_hero_0117_png",
+			"scale9grid": "23,1,17,46"
+		},
+		{
+			"url": "assets/gameui/33_act/6_loginin/bg_loginin_0001.png",
+			"type": "image",
+			"name": "bg_loginin_0001_png"
+		},
+		{
+			"url": "assets/gameui/11_role/bg_role_0041.png",
+			"type": "image",
+			"name": "bg_role_0041_png"
+		},
+		{
+			"url": "assets/gameui/11_role/bg_role_0042.png",
+			"type": "image",
+			"name": "bg_role_0042_png"
+		},
+		{
+			"url": "assets/gameui/15_tower/bg_tower_0006.png",
+			"type": "image",
+			"name": "bg_tower_0006_png"
+		},
+		{
+			"url": "assets/gameui/73_trainer_treasure/bg_trainer_treasure_004.png",
+			"type": "image",
+			"name": "bg_trainer_treasure_004_png"
+		},
+		{
+			"url": "assets/gameui/73_trainer_treasure/bg_trainer_treasure_006.png",
+			"type": "image",
+			"name": "bg_trainer_treasure_006_png"
+		},
+		{
+			"url": "assets/bones/effect/bg002_ske.dbbin",
+			"type": "bin",
+			"name": "bg002_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/bg002_tex.png",
+			"type": "image",
+			"name": "bg002_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/bg003_ske.dbbin",
+			"type": "bin",
+			"name": "bg003_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/bg003_tex.png",
+			"type": "image",
+			"name": "bg003_tex_png"
+		},
+		{
+			"url": "assets/gameui/35_array/btn_array_001.png",
+			"type": "image",
+			"name": "btn_array_001_png"
+		},
+		{
+			"url": "assets/gameui/35_array/btn_array_002.png",
+			"type": "image",
+			"name": "btn_array_002_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0010.png",
+			"type": "image",
+			"name": "common_0010_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0051.png",
+			"type": "image",
+			"name": "common_0051_png",
+			"scale9grid": "27,26,86,88"
+		},
+		{
+			"url": "assets/gameui/common/common_0055.png",
+			"type": "image",
+			"name": "common_0055_png"
+		},
+		{
+			"url": "assets/bones/effect/de1001_ske.dbbin",
+			"type": "bin",
+			"name": "de1001_ske_dbbin"
+		},
+		{
+			"url": "assets/gameui/common/common_133.png",
+			"type": "image",
+			"name": "common_133_png"
+		},
+		{
+			"url": "assets/gameui/common/common_140.png",
+			"type": "image",
+			"name": "common_140_png"
+		},
+		{
+			"url": "assets/bones/effect/de1001_tex.png",
+			"type": "image",
+			"name": "de1001_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/dhh1001_ske.dbbin",
+			"type": "bin",
+			"name": "dhh1001_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/dhh1001_tex.png",
+			"type": "image",
+			"name": "dhh1001_tex_png"
+		},
+		{
+			"url": "assets/bones/hero/h00601_ske.dbbin",
+			"type": "bin",
+			"name": "h00601_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/hero/h00601_tex.png",
+			"type": "image",
+			"name": "h00601_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/hh1001_ske.dbbin",
+			"type": "bin",
+			"name": "hh1001_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/hh1001_tex.png",
+			"type": "image",
+			"name": "hh1001_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/hh1003_ske.dbbin",
+			"type": "bin",
+			"name": "hh1003_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/hh1003_tex.png",
+			"type": "image",
+			"name": "hh1003_tex_png"
+		},
+		{
+			"url": "assets/gameui/73_trainer_treasure/icon_trainer_treasure_002.png",
+			"type": "image",
+			"name": "icon_trainer_treasure_002_png"
+		},
+		{
+			"url": "assets/bones/effect/m0053_ske.dbbin",
+			"type": "bin",
+			"name": "m0053_ske_dbbin"
+		},
+		{
+			"url": "assets/font/number_afk.fnt",
+			"type": "font",
+			"name": "number_afk_fnt"
+		},
+		{
+			"url": "assets/font/number_afk.png",
+			"type": "image",
+			"name": "number_afk_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/range/range_hero_0008.png",
+			"type": "image",
+			"name": "range_hero_0008_png"
+		},
+		{
+			"url": "assets/gameui/common/shadow_s.png",
+			"type": "image",
+			"name": "shadow_s_png"
+		},
+		{
+			"url": "assets/gameui/35_array/word_array_006.png",
+			"type": "image",
+			"name": "word_array_006_png"
+		},
+		{
+			"url": "assets/gameui/35_array/word_array_009.png",
+			"type": "image",
+			"name": "word_array_009_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/5.10/word_bg_afk_0021.png",
+			"type": "image",
+			"name": "word_bg_afk_0021_png"
+		},
+		{
+			"url": "assets/gameui/common/word_common_0054.png",
+			"type": "image",
+			"name": "word_common_0054_png"
+		},
+		{
+			"url": "assets/gameui/common/word_common_0055.png",
+			"type": "image",
+			"name": "word_common_0055_png"
+		},
+		{
+			"url": "assets/icon/item/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/icon/item/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "assets/icon/item/28.png",
+			"type": "image",
+			"name": "28_png"
+		},
+		{
+			"url": "assets/icon/item/32.png",
+			"type": "image",
+			"name": "32_png"
+		},
+		{
+			"url": "assets/icon/item/97.png",
+			"type": "image",
+			"name": "97_png"
+		},
+		{
+			"url": "assets/icon/item/41101.png",
+			"type": "image",
+			"name": "41101_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/actor.png",
+			"type": "image",
+			"name": "actor_png"
+		},
+		{
+			"url": "assets/icon/title/13000.png",
+			"type": "image",
+			"name": "13000_png"
+		},
+		{
+			"url": "assets/gameui/1_fight/buff/bar_fight_0002.png",
+			"type": "image",
+			"name": "bar_fight_0002_png",
+			"scale9grid": "4,0,71,5"
+		},
+		{
+			"url": "assets/gameui/1_fight/buff/bar_fight_0001.png",
+			"type": "image",
+			"name": "bar_fight_0001_png"
+		},
+		{
+			"url": "assets/gameui/1_fight/buff/bar_fight_0003.png",
+			"type": "image",
+			"name": "bar_fight_0003_png",
+			"scale9grid": "4,0,71,4"
+		},
+		{
+			"url": "assets/bones/effect/m0053_tex.png",
+			"type": "image",
+			"name": "m0053_tex_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/7.15/bg_afk_000004.png",
+			"type": "image",
+			"name": "bg_afk_000004_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/7.15/bg_afk_000005.png",
+			"type": "image",
+			"name": "bg_afk_000005_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/7.15/bg_afk_000006.png",
+			"type": "image",
+			"name": "bg_afk_000006_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_0021.png",
+			"type": "image",
+			"name": "bg_afk_0021_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_cashgift_001.png",
+			"type": "image",
+			"name": "bg_cashgift_001_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_cashgift_002.png",
+			"type": "image",
+			"name": "bg_cashgift_002_png",
+			"scale9grid": "38,39,30,22"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_cashgift_003.png",
+			"type": "image",
+			"name": "bg_cashgift_003_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_cashgift_005.png",
+			"type": "image",
+			"name": "bg_cashgift_005_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_cashgift_004.png",
+			"type": "image",
+			"name": "bg_cashgift_004_png"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0001.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0001_png"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0002.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0002_png"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0003.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0003_png",
+			"scale9grid": "25,22,157,137"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0004.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0004_png",
+			"scale9grid": "25,22,157,137"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/bg_champion_challenge_0005.png",
+			"type": "image",
+			"name": "bg_champion_challenge_0005_png",
+			"scale9grid": "25,22,157,137"
+		},
+		{
+			"url": "assets/gameui/33_act/4_first_charge/bg_first_charge_0005.png",
+			"type": "image",
+			"name": "bg_first_charge_0005_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/bg_guide_0004.png",
+			"type": "image",
+			"name": "bg_guide_0004_png"
+		},
+		{
+			"url": "assets/gameui/33_act/19_egg/bg_egg_0014.png",
+			"type": "image",
+			"name": "bg_egg_0014_png"
+		},
+		{
+			"url": "assets/gameui/69_heart_soul/bg_heart_soul_0001.png",
+			"type": "image",
+			"name": "bg_heart_soul_0001_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0032.png",
+			"type": "image",
+			"name": "bg_hero_0032_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0040.png",
+			"type": "image",
+			"name": "bg_hero_0040_png",
+			"scale9grid": "287,139,81,45"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0091.png",
+			"type": "image",
+			"name": "bg_hero_0091_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_0011.png",
+			"type": "image",
+			"name": "bg_afk_0011_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0092.png",
+			"type": "image",
+			"name": "bg_hero_0092_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0112.png",
+			"type": "image",
+			"name": "bg_hero_0112_png"
+		},
+		{
+			"url": "assets/gameui/48_maze/bg_maze_0012.png",
+			"type": "image",
+			"name": "bg_maze_0012_png"
+		},
+		{
+			"url": "assets/gameui/51_mission_task/bg_mission_task_0001.png",
+			"type": "image",
+			"name": "bg_mission_task_0001_png"
+		},
+		{
+			"url": "assets/gameui/51_mission_task/bg_mission_task_0002.png",
+			"type": "image",
+			"name": "bg_mission_task_0002_png"
+		},
+		{
+			"url": "assets/gameui/51_mission_task/bg_mission_task_0003.png",
+			"type": "image",
+			"name": "bg_mission_task_0003_png"
+		},
+		{
+			"url": "assets/gameui/63_quick_claw/bg_quick_claw_0001.png",
+			"type": "image",
+			"name": "bg_quick_claw_0001_png"
+		},
+		{
+			"url": "assets/gameui/56_ring/bg_ring_0001.png",
+			"type": "image",
+			"name": "bg_ring_0001_png",
+			"scale9grid": "14,0,48,48"
+		},
+		{
+			"url": "assets/gameui/11_role/5.16/bg_role_0032.png",
+			"type": "image",
+			"name": "bg_role_0032_png"
+		},
+		{
+			"url": "assets/gameui/51_mission_task/bg_mission_task_0004.png",
+			"type": "image",
+			"name": "bg_mission_task_0004_png"
+		},
+		{
+			"url": "assets/gameui/33_act/63_svip/bg_svip_001.png",
+			"type": "image",
+			"name": "bg_svip_001_png",
+			"scale9grid": "13,10,20,31"
+		},
+		{
+			"url": "assets/gameui/15_tower/bg_tower_0005.png",
+			"type": "image",
+			"name": "bg_tower_0005_png"
+		},
+		{
+			"url": "assets/gameui/65_train_tower/bg_train_tower_0004.png",
+			"type": "image",
+			"name": "bg_train_tower_0004_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/7.15/bg_word_afk_00007.png",
+			"type": "image",
+			"name": "bg_word_afk_00007_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_word_cashgift_001.png",
+			"type": "image",
+			"name": "bg_word_cashgift_001_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/bg_word_cashgift_002.png",
+			"type": "image",
+			"name": "bg_word_cashgift_002_png"
+		},
+		{
+			"url": "assets/gameui/72_limit_warorder/bg_word_limit_warorder_003.png",
+			"type": "image",
+			"name": "bg_word_limit_warorder_003_png"
+		},
+		{
+			"url": "assets/gameui/51_mission_task/bg_word_mission_task_0001.png",
+			"type": "image",
+			"name": "bg_word_mission_task_0001_png"
+		},
+		{
+			"url": "assets/gameui/33_act/63_svip/bg_word_svip_002.png",
+			"type": "image",
+			"name": "bg_word_svip_002_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/2.28/btn_afk_00022.png",
+			"type": "image",
+			"name": "btn_afk_00022_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/btn_cashgift_001.png",
+			"type": "image",
+			"name": "btn_cashgift_001_png"
+		},
+		{
+			"url": "assets/gameui/56_ring/btn_ring_0001.png",
+			"type": "image",
+			"name": "btn_ring_0001_png"
+		},
+		{
+			"url": "assets/gameui/33_act/64_cashgift/btn_cashgift_002.png",
+			"type": "image",
+			"name": "btn_cashgift_002_png"
+		},
+		{
+			"url": "assets/gameui/35_array/btn_word_array_0001.png",
+			"type": "image",
+			"name": "btn_word_array_0001_png"
+		},
+		{
+			"url": "assets/bones/char/c001_ske.dbbin",
+			"type": "bin",
+			"name": "c001_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/char/c001_tex.png",
+			"type": "image",
+			"name": "c001_tex_png"
+		},
+		{
+			"url": "assets/gameui/common/common_001.png",
+			"type": "image",
+			"name": "common_001_png",
+			"scale9grid": "37,37,224,210"
+		},
+		{
+			"url": "assets/gameui/common/common_006.png",
+			"type": "image",
+			"name": "common_006_png",
+			"scale9grid": "80,0,480,12"
+		},
+		{
+			"url": "assets/gameui/common/currency/common_08.png",
+			"type": "image",
+			"name": "common_08_png"
+		},
+		{
+			"url": "assets/gameui/common/common_008.png",
+			"type": "image",
+			"name": "common_008_png"
+		},
+		{
+			"url": "assets/gameui/common/common_009.png",
+			"type": "image",
+			"name": "common_009_png",
+			"scale9grid": "17,19,64,61"
+		},
+		{
+			"url": "assets/gameui/common/common_010.png",
+			"type": "image",
+			"name": "common_010_png"
+		},
+		{
+			"url": "assets/gameui/common/common_021.png",
+			"type": "image",
+			"name": "common_021_png"
+		},
+		{
+			"url": "assets/gameui/common/common_023.png",
+			"type": "image",
+			"name": "common_023_png"
+		},
+		{
+			"url": "assets/gameui/common/common_030.png",
+			"type": "image",
+			"name": "common_030_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0043.png",
+			"type": "image",
+			"name": "common_0043_png"
+		},
+		{
+			"url": "assets/gameui/common/common_105.png",
+			"type": "image",
+			"name": "common_105_png",
+			"scale9grid": "4,4,6,6"
+		},
+		{
+			"url": "assets/gameui/common/common_116.png",
+			"type": "image",
+			"name": "common_116_png"
+		},
+		{
+			"url": "assets/gameui/common/common_124.png",
+			"type": "image",
+			"name": "common_124_png"
+		},
+		{
+			"url": "assets/gameui/common/common_125.png",
+			"type": "image",
+			"name": "common_125_png",
+			"scale9grid": "18,0,23,21"
+		},
+		{
+			"url": "assets/gameui/common/common_126.png",
+			"type": "image",
+			"name": "common_126_png"
+		},
+		{
+			"url": "assets/gameui/common/common_127.png",
+			"type": "image",
+			"name": "common_127_png"
+		},
+		{
+			"url": "assets/gameui/common/common_134.png",
+			"type": "image",
+			"name": "common_134_png"
+		},
+		{
+			"url": "assets/gameui/common/common_135.png",
+			"type": "image",
+			"name": "common_135_png"
+		},
+		{
+			"url": "assets/gameui/common/common_136.png",
+			"type": "image",
+			"name": "common_136_png"
+		},
+		{
+			"url": "assets/gameui/common/common_137.png",
+			"type": "image",
+			"name": "common_137_png"
+		},
+		{
+			"url": "assets/gameui/common/common_141.png",
+			"type": "image",
+			"name": "common_141_png"
+		},
+		{
+			"url": "assets/gameui/common/common_142.png",
+			"type": "image",
+			"name": "common_142_png"
+		},
+		{
+			"url": "assets/gameui/common/common_143.png",
+			"type": "image",
+			"name": "common_143_png"
+		},
+		{
+			"url": "assets/gameui/common/common_144.png",
+			"type": "image",
+			"name": "common_144_png"
+		},
+		{
+			"url": "assets/gameui/28_guide/dialog1.png",
+			"type": "image",
+			"name": "dialog1_png",
+			"scale9grid": "34,0,54,104"
+		},
+		{
+			"url": "assets/gameui/common/common_156.png",
+			"type": "image",
+			"name": "common_156_png"
+		},
+		{
+			"url": "assets/bones/effect/feiting_ske.dbbin",
+			"type": "bin",
+			"name": "feiting_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/feiting_tex.png",
+			"type": "image",
+			"name": "feiting_tex_png"
+		},
+		{
+			"url": "assets/gameui/common/number/float_damage.png",
+			"type": "image",
+			"name": "float_damage_png"
+		},
+		{
+			"url": "assets/bones/effect/gonghui_ske.dbbin",
+			"type": "bin",
+			"name": "gonghui_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/gonghui_tex.png",
+			"type": "image",
+			"name": "gonghui_tex_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_bugwc.png",
+			"type": "image",
+			"name": "home_btn_bugwc_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_cmlx.png",
+			"type": "image",
+			"name": "home_btn_cmlx_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_czlb.png",
+			"type": "image",
+			"name": "home_btn_czlb_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_cztq.png",
+			"type": "image",
+			"name": "home_btn_cztq_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_gjzl.png",
+			"type": "image",
+			"name": "home_btn_gjzl_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_gjtz_1.png",
+			"type": "image",
+			"name": "home_btn_gjtz_1_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_jlt.png",
+			"type": "image",
+			"name": "home_btn_jlt_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_qjzp.png",
+			"type": "image",
+			"name": "home_btn_qjzp_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_rcrw.png",
+			"type": "image",
+			"name": "home_btn_rcrw_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_sc.png",
+			"type": "image",
+			"name": "home_btn_sc_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_sxj.png",
+			"type": "image",
+			"name": "home_btn_sxj_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_tkzz.png",
+			"type": "image",
+			"name": "home_btn_tkzz_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_tq.png",
+			"type": "image",
+			"name": "home_btn_tq_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_xshd.png",
+			"type": "image",
+			"name": "home_btn_xshd_png"
+		},
+		{
+			"url": "assets/bones/effect/jinhuachi_ske.dbbin",
+			"type": "bin",
+			"name": "jinhuachi_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/jinhuachi_tex.png",
+			"type": "image",
+			"name": "jinhuachi_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m0016_ske.dbbin",
+			"type": "bin",
+			"name": "m0016_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/m0016_tex.png",
+			"type": "image",
+			"name": "m0016_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m0033_tex.png",
+			"type": "image",
+			"name": "m0033_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m0033_ske.dbbin",
+			"type": "bin",
+			"name": "m0033_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/m0043_ske.dbbin",
+			"type": "bin",
+			"name": "m0043_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/m0043_tex.png",
+			"type": "image",
+			"name": "m0043_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m0047_ske.dbbin",
+			"type": "bin",
+			"name": "m0047_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/m0047_tex.png",
+			"type": "image",
+			"name": "m0047_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/m102_tex.png",
+			"type": "image",
+			"name": "m102_tex_png"
+		},
+		{
+			"url": "assets/map/map_101.jpg",
+			"type": "image",
+			"name": "map_101_jpg"
+		},
+		{
+			"url": "assets/map/map_102.png",
+			"type": "image",
+			"name": "map_102_png"
+		},
+		{
+			"url": "assets/map/map_103.png",
+			"type": "image",
+			"name": "map_103_png"
+		},
+		{
+			"url": "assets/map/map_104.png",
+			"type": "image",
+			"name": "map_104_png"
+		},
+		{
+			"url": "assets/map/map_cloud.png",
+			"type": "image",
+			"name": "map_cloud_png"
+		},
+		{
+			"url": "assets/bones/effect/niao_ske.dbbin",
+			"type": "bin",
+			"name": "niao_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/niao_tex.png",
+			"type": "image",
+			"name": "niao_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/niudan_ske.dbbin",
+			"type": "bin",
+			"name": "niudan_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/niudan_tex.png",
+			"type": "image",
+			"name": "niudan_tex_png"
+		},
+		{
+			"url": "assets/font/number_hero.fnt",
+			"type": "font",
+			"name": "number_hero_fnt"
+		},
+		{
+			"url": "assets/font/number_hero.png",
+			"type": "image",
+			"name": "number_hero_png"
+		},
+		{
+			"url": "assets/font/number_lucky_cat.png",
+			"type": "image",
+			"name": "number_lucky_cat_png"
+		},
+		{
+			"url": "assets/bones/effect/paimai_ske.dbbin",
+			"type": "bin",
+			"name": "paimai_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/paimai_tex.png",
+			"type": "image",
+			"name": "paimai_tex_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/range/range_hero_0001.png",
+			"type": "image",
+			"name": "range_hero_0001_png"
+		},
+		{
+			"url": "assets/bones/effect/shangdian_ske.dbbin",
+			"type": "bin",
+			"name": "shangdian_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/shangdian_tex.png",
+			"type": "image",
+			"name": "shangdian_tex_png"
+		},
+		{
+			"url": "assets/gameui/8_balance/word_balance_0013.png",
+			"type": "image",
+			"name": "word_balance_0013_png"
+		},
+		{
+			"url": "assets/gameui/common/transparency.png",
+			"type": "image",
+			"name": "transparency_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/5.10/word_afk_0023.png",
+			"type": "image",
+			"name": "word_afk_0023_png"
+		},
+		{
+			"url": "assets/gameui/common/number/word_commen_0003.png",
+			"type": "image",
+			"name": "word_commen_0003_png"
+		},
+		{
+			"url": "assets/gameui/16_champion_challenge/word_champion_challenge_0001.png",
+			"type": "image",
+			"name": "word_champion_challenge_0001_png"
+		},
+		{
+			"url": "assets/gameui/26_battle_tower/word_battle_tower_0002.png",
+			"type": "image",
+			"name": "word_battle_tower_0002_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/word_hero_0020.png",
+			"type": "image",
+			"name": "word_hero_0020_png"
+		},
+		{
+			"url": "assets/bones/effect/yan_ske.dbbin",
+			"type": "bin",
+			"name": "yan_ske_dbbin"
+		},
+		{
+			"url": "assets/gameui/common/number/word_svip_charge_0012.png",
+			"type": "image",
+			"name": "word_svip_charge_0012_png"
+		},
+		{
+			"url": "assets/gameui/common/number/word_vip_charge_0012.png",
+			"type": "image",
+			"name": "word_vip_charge_0012_png"
+		},
+		{
+			"url": "assets/bones/effect/yan_tex.png",
+			"type": "image",
+			"name": "yan_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/yunb_ske.dbbin",
+			"type": "bin",
+			"name": "yunb_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/yunq_ske.dbbin",
+			"type": "bin",
+			"name": "yunq_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/yunb_tex.png",
+			"type": "image",
+			"name": "yunb_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/yunq_tex.png",
+			"type": "image",
+			"name": "yunq_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/yuny_ske.dbbin",
+			"type": "bin",
+			"name": "yuny_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/yuny_tex.png",
+			"type": "image",
+			"name": "yuny_tex_png"
+		},
+		{
+			"url": "assets/icon/head/frame/30002.png",
+			"type": "image",
+			"name": "30002_png"
+		},
+		{
+			"url": "assets/gameui/common/word_common_0061.png",
+			"type": "image",
+			"name": "word_common_0061_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/bar_hero_0001.png",
+			"type": "image",
+			"name": "bar_hero_0001_png",
+			"scale9grid": "7,8,334,10"
+		},
+		{
+			"url": "assets/gameui/common/bg_afk_0005.png",
+			"type": "image",
+			"name": "bg_afk_0005_png"
+		},
+		{
+			"url": "assets/gameui/common/bg_afk_0006.png",
+			"type": "image",
+			"name": "bg_afk_0006_png"
+		},
+		{
+			"url": "assets/gameui/4_afk/bg_afk_014.png",
+			"type": "image",
+			"name": "bg_afk_014_png"
+		},
+		{
+			"url": "assets/gameui/common/bg_afk_0007.png",
+			"type": "image",
+			"name": "bg_afk_0007_png"
+		},
+		{
+			"url": "assets/gameui/14_dailydun/bg_dailydun_0013.jpg",
+			"type": "image",
+			"name": "bg_dailydun_0013_jpg"
+		},
+		{
+			"url": "assets/gameui/21_elitefour_challenge/bg_eliteFour_challenge_0003.png",
+			"type": "image",
+			"name": "bg_elitefour_challenge_0003_png",
+			"scale9grid": "36,11,56,7"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0036.png",
+			"type": "image",
+			"name": "bg_hero_0036_png",
+			"scale9grid": "10,0,213,14"
+		},
+		{
+			"url": "assets/gameui/9_hero/bg_hero_0046.png",
+			"type": "image",
+			"name": "bg_hero_0046_png"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0005.png",
+			"type": "image",
+			"name": "bg_home_0005_png",
+			"scale9grid": "9,7,12,14"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0014.png",
+			"type": "image",
+			"name": "bg_home_0014_png"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0023.png",
+			"type": "image",
+			"name": "bg_home_0023_png",
+			"scale9grid": "0,86,0,3"
+		},
+		{
+			"url": "assets/gameui/2_home/bg_home_0015.png",
+			"type": "image",
+			"name": "bg_home_0015_png"
+		},
+		{
+			"url": "assets/gameui/33_act/63_svip/bg_svip_005.png",
+			"type": "image",
+			"name": "bg_svip_005_png"
+		},
+		{
+			"url": "assets/gameui/33_act/1_vip_charge/bg_vip_charge_0006.png",
+			"type": "image",
+			"name": "bg_vip_charge_0006_png",
+			"scale9grid": "28,66,134,45"
+		},
+		{
+			"url": "assets/gameui/33_act/1_vip_charge/bg_vip_charge_0007.png",
+			"type": "image",
+			"name": "bg_vip_charge_0007_png"
+		},
+		{
+			"url": "assets/gameui/33_act/1_vip_charge/bg_vip_charge_0014.png",
+			"type": "image",
+			"name": "bg_vip_charge_0014_png"
+		},
+		{
+			"url": "assets/gameui/33_act/63_svip/bg_word_svip_003.png",
+			"type": "image",
+			"name": "bg_word_svip_003_png"
+		},
+		{
+			"url": "assets/gameui/85_new_island/btn_word_new_island_003.png",
+			"type": "image",
+			"name": "btn_word_new_island_003_png"
+		},
+		{
+			"url": "assets/gameui/common/common_007.png",
+			"type": "image",
+			"name": "common_007_png"
+		},
+		{
+			"url": "assets/gameui/common/currency/common_12.png",
+			"type": "image",
+			"name": "common_12_png"
+		},
+		{
+			"url": "assets/gameui/common/common_017.png",
+			"type": "image",
+			"name": "common_017_png",
+			"scale9grid": "26,1,1,25"
+		},
+		{
+			"url": "assets/gameui/common/common_019.png",
+			"type": "image",
+			"name": "common_019_png"
+		},
+		{
+			"url": "assets/gameui/common/common_020.png",
+			"type": "image",
+			"name": "common_020_png",
+			"scale9grid": "1,3,8,8"
+		},
+		{
+			"url": "assets/gameui/common/common_0040.png",
+			"type": "image",
+			"name": "common_0040_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0039.png",
+			"type": "image",
+			"name": "common_0039_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0053.png",
+			"type": "image",
+			"name": "common_0053_png"
+		},
+		{
+			"url": "assets/gameui/common/common_0044.png",
+			"type": "image",
+			"name": "common_0044_png"
+		},
+		{
+			"url": "assets/gameui/common/common_70.png",
+			"type": "image",
+			"name": "common_70_png",
+			"scale9grid": "14,16,172,37"
+		},
+		{
+			"url": "assets/gameui/common/common_148.png",
+			"type": "image",
+			"name": "common_148_png"
+		},
+		{
+			"url": "assets/gameui/common/common_158.png",
+			"type": "image",
+			"name": "common_158_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_grzx.png",
+			"type": "image",
+			"name": "home_btn_grzx_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_hy.png",
+			"type": "image",
+			"name": "home_btn_hy_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_wybq.png",
+			"type": "image",
+			"name": "home_btn_wybq_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_yj.png",
+			"type": "image",
+			"name": "home_btn_yj_png"
+		},
+		{
+			"url": "assets/icon/act/icon_word_viplb.png",
+			"type": "image",
+			"name": "icon_word_viplb_png"
+		},
+		{
+			"url": "assets/icon/act/icon_word_viptq.png",
+			"type": "image",
+			"name": "icon_word_viptq_png"
+		},
+		{
+			"url": "assets/icon/act/icon_word_vipzssd.png",
+			"type": "image",
+			"name": "icon_word_vipzssd_png"
+		},
+		{
+			"url": "assets/icon/act/icon_word_zs.png",
+			"type": "image",
+			"name": "icon_word_zs_png"
+		},
+		{
+			"url": "assets/bones/effect/nanhai_ske.dbbin",
+			"type": "bin",
+			"name": "nanhai_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/nanhai_tex.png",
+			"type": "image",
+			"name": "nanhai_tex_png"
+		},
+		{
+			"url": "assets/font/number_lucky_cat.fnt",
+			"type": "font",
+			"name": "number_lucky_cat_fnt"
+		},
+		{
+			"url": "assets/gameui/common/number/number_lucky_cat_0012.png",
+			"type": "image",
+			"name": "number_lucky_cat_0012_png"
+		},
+		{
+			"url": "assets/bones/effect/nvhai_ske.dbbin",
+			"type": "bin",
+			"name": "nvhai_ske_dbbin"
+		},
+		{
+			"url": "assets/font/number_svip.fnt",
+			"type": "font",
+			"name": "number_svip_fnt"
+		},
+		{
+			"url": "assets/font/number_svip.png",
+			"type": "image",
+			"name": "number_svip_png"
+		},
+		{
+			"url": "assets/bones/effect/nvhai_tex.png",
+			"type": "image",
+			"name": "nvhai_tex_png"
+		},
+		{
+			"url": "assets/bones/pet/p003_ske.dbbin",
+			"type": "bin",
+			"name": "p003_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/pet/p003_tex.png",
+			"type": "image",
+			"name": "p003_tex_png"
+		},
+		{
+			"url": "assets/bones/effect/pangzi_ske.dbbin",
+			"type": "bin",
+			"name": "pangzi_ske_dbbin"
+		},
+		{
+			"url": "assets/bones/effect/pangzi_tex.png",
+			"type": "image",
+			"name": "pangzi_tex_png"
+		},
+		{
+			"url": "assets/font/vip_charge.fnt",
+			"type": "font",
+			"name": "vip_charge_fnt"
+		},
+		{
+			"url": "assets/font/vip_charge.png",
+			"type": "image",
+			"name": "vip_charge_png"
+		},
+		{
+			"url": "assets/gameui/33_act/3_direct_gift/word_direct_gift_0003.png",
+			"type": "image",
+			"name": "word_direct_gift_0003_png"
+		},
+		{
+			"url": "assets/gameui/common/number/word_svip_charge_0011.png",
+			"type": "image",
+			"name": "word_svip_charge_0011_png"
+		},
+		{
+			"url": "assets/gameui/common/number/word_vip_charge_0011.png",
+			"type": "image",
+			"name": "word_vip_charge_0011_png"
+		},
+		{
+			"url": "assets/gameui/0_login/bar_LoginPanel_0001.png",
+			"type": "image",
+			"name": "bar_LoginPanel_0001_png",
+			"scale9grid": "29,0,176,14"
+		},
+		{
+			"url": "assets/gameui/0_login/bar_LoginPanel_0002.png",
+			"type": "image",
+			"name": "bar_LoginPanel_0002_png",
+			"scale9grid": "10,0,326,10"
+		},
+		{
+			"url": "assets/gameui/0_login/loginBg.jpg",
+			"type": "image",
+			"name": "loginBg_jpg"
+		},
+		{
+			"url": "assets/bones/effect/m_401_tex.png",
+			"type": "image",
+			"name": "m_401_tex_png"
+		},
+		{
+			"url": "assets/gameui/0_login/word_login_0001.png",
+			"type": "image",
+			"name": "word_login_0001_png"
+		},
+		{
+			"url": "assets/bones/effect/b3001_tex.json",
+			"type": "json",
+			"name": "b3001_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/b3100_tex.json",
+			"type": "json",
+			"name": "b3100_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/bg003_tex.json",
+			"type": "json",
+			"name": "bg003_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/bg002_tex.json",
+			"type": "json",
+			"name": "bg002_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/dhh1001_tex.json",
+			"type": "json",
+			"name": "dhh1001_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/hh1001_tex.json",
+			"type": "json",
+			"name": "hh1001_tex_json"
+		},
+		{
+			"url": "assets/bones/hero/h00601_tex.json",
+			"type": "json",
+			"name": "h00601_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/hh1003_tex.json",
+			"type": "json",
+			"name": "hh1003_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m0053_tex.json",
+			"type": "json",
+			"name": "m0053_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/de1001_tex.json",
+			"type": "json",
+			"name": "de1001_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/feiting_tex.json",
+			"type": "json",
+			"name": "feiting_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/jinhuachi_tex.json",
+			"type": "json",
+			"name": "jinhuachi_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/gonghui_tex.json",
+			"type": "json",
+			"name": "gonghui_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m0016_tex.json",
+			"type": "json",
+			"name": "m0016_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m0033_tex.json",
+			"type": "json",
+			"name": "m0033_tex_json"
+		},
+		{
+			"url": "assets/bones/char/c001_tex.json",
+			"type": "json",
+			"name": "c001_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m0043_tex.json",
+			"type": "json",
+			"name": "m0043_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m0047_tex.json",
+			"type": "json",
+			"name": "m0047_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m102_mc.json",
+			"type": "json",
+			"name": "m102_mc_json"
+		},
+		{
+			"url": "assets/bones/effect/niao_tex.json",
+			"type": "json",
+			"name": "niao_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/niudan_tex.json",
+			"type": "json",
+			"name": "niudan_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/yan_tex.json",
+			"type": "json",
+			"name": "yan_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/shangdian_tex.json",
+			"type": "json",
+			"name": "shangdian_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/yunb_tex.json",
+			"type": "json",
+			"name": "yunb_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/yunq_tex.json",
+			"type": "json",
+			"name": "yunq_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/paimai_tex.json",
+			"type": "json",
+			"name": "paimai_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/yuny_tex.json",
+			"type": "json",
+			"name": "yuny_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/nvhai_tex.json",
+			"type": "json",
+			"name": "nvhai_tex_json"
+		},
+		{
+			"url": "assets/bones/pet/p003_tex.json",
+			"type": "json",
+			"name": "p003_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/pangzi_tex.json",
+			"type": "json",
+			"name": "pangzi_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/m_401_ske.json",
+			"type": "json",
+			"name": "m_401_ske_json"
+		},
+		{
+			"url": "assets/bones/effect/m_401_tex.json",
+			"type": "json",
+			"name": "m_401_tex_json"
+		},
+		{
+			"url": "assets/bones/effect/nanhai_tex.json",
+			"type": "json",
+			"name": "nanhai_tex_json"
+		},
+		{
+			"url": "assets/gameui/big_png/big_png_sheet.json",
+			"type": "sheet",
+			"name": "big_png_sheet_json",
+			"subkeys": "btn_afk_00016_png,btn_afk_00017_png,btn_afk_00018_png,btn_afk_001_png,btn_afk_002_png,btn_word_afk_0024_png,btn_word_afk_0025_png,btn_word_afk_0026_png,btn_word_afk_0027_png,home_001_1_png,home_001_png,home_002_1_png,home_002_png,home_003_1_png,home_003_png,home_004_1_png,home_004_png,home_005_1_png,home_005_png,home_006_1_png,home_006_png,word_bg_afk_0023_png"
+		},
+		{
+			"url": "assets/gameui/common/reconnect.png",
+			"type": "image",
+			"name": "reconnect_png"
+		},
+		{
+			"url": "assets/gameui/0_login/home_btn_qlhc.png",
+			"type": "image",
+			"name": "home_btn_qlhc_png"
+		},
+		{
+			"url": "assets/gameui/9_hero/5.57/bg_hero_0082.jpg",
+			"type": "image",
+			"name": "bg_hero_0082_jpg"
+		},
+		{
+			"url": "assets/gameui/46_explore/explore_bg.jpg",
+			"type": "image",
+			"name": "explore_bg_jpg"
+		},
+		{
+			"url": "assets/gameui/2_home/home_0011.png",
+			"type": "image",
+			"name": "home_0011_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_discord.png",
+			"type": "image",
+			"name": "home_btn_discord_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_facebook.png",
+			"type": "image",
+			"name": "home_btn_facebook_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_cafe.png",
+			"type": "image",
+			"name": "home_btn_cafe_png"
+		},
+		{
+			"url": "assets/gameui/2_home/home_btn_grzx_01.png",
+			"type": "image",
+			"name": "home_btn_grzx_01_png"
+		}
+	]
+}

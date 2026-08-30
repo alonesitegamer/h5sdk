@@ -1,0 +1,12 @@
+{"file":"number_hero_cwjx.png","frames":{
+ "3":{"x":1,"y":0,"w":11,"h":14,"offX":0,"offY":0,"sourceW":11,"sourceH":14},
+ "2":{"x":13,"y":0,"w":10,"h":14,"offX":0,"offY":0,"sourceW":10,"sourceH":14},
+ "1":{"x":24,"y":0,"w":7,"h":14,"offX":0,"offY":0,"sourceW":7,"sourceH":14},
+ "0":{"x":1,"y":15,"w":11,"h":14,"offX":0,"offY":0,"sourceW":11,"sourceH":14},
+ "7":{"x":13,"y":15,"w":11,"h":14,"offX":0,"offY":0,"sourceW":11,"sourceH":14},
+ "6":{"x":25,"y":15,"w":10,"h":14,"offX":0,"offY":0,"sourceW":10,"sourceH":14},
+ "5":{"x":1,"y":30,"w":10,"h":14,"offX":0,"offY":0,"sourceW":10,"sourceH":14},
+ "4":{"x":12,"y":30,"w":11,"h":14,"offX":0,"offY":0,"sourceW":11,"sourceH":14},
+ "9":{"x":24,"y":30,"w":11,"h":14,"offX":0,"offY":0,"sourceW":11,"sourceH":14},
+ "8":{"x":1,"y":45,"w":10,"h":14,"offX":0,"offY":0,"sourceW":10,"sourceH":14}
+}}

@@ -1,0 +1,11 @@
+{"file":"number_shop.png","frames":{
+"0":{"x":69,"y":35,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"1":{"x":103,"y":1,"w":15,"h":32,"offX":12,"offY":11,"sourceW":38,"sourceH":52},
+"2":{"x":69,"y":1,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"3":{"x":1,"y":1,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"4":{"x":35,"y":69,"w":30,"h":32,"offX":4,"offY":11,"sourceW":38,"sourceH":52},
+"5":{"x":1,"y":69,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"6":{"x":1,"y":35,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"7":{"x":67,"y":69,"w":29,"h":32,"offX":5,"offY":11,"sourceW":38,"sourceH":52},
+"8":{"x":35,"y":1,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52},
+"9":{"x":35,"y":35,"w":32,"h":32,"offX":3,"offY":11,"sourceW":38,"sourceH":52}}}

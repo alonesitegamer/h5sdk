@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover,minimal-ui">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes"><meta name="screen-orientation" content="portrait">
+    <meta name="x5-fullscreen" content="true">
+    <meta name="x5-page-mode" content="app">
+    <meta name="360-fullscreen" content="true">
+    <meta name="full-screen" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="" id="webtitle">
+    <link class="xicon" rel="apple-touch-icon" href="">
+    <link class="xicon" id="xicon" rel="icon" href="">
+    <script src="/static/game/jquery-2.2.4.min.js?v=20220509"></script>
+    <script src="/static/game/md5.js?v=20220509"></script>
+    <script src="/static/game/mjinit.js?v=20220509"></script>
+    <script src="https://h5sdk.camjm.space/static/game/platformJS/DATAWIN.js"></script>
+    <!-- <script src="https://h5sdk.camjm.space/static/game/eruda.js"></script> -->
+    <style>
+        html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video { margin: 0; padding: 0; border: 0; font-size: 100%; vertical-align: baseline; }
+        body { font:100%/1.5 "Helvetica Neue",Helvetica,Arial,\5B8B\4F53,sans-serif; }
+        html, body {
+            height: 100%;
+            overflow: hidden;
+        }
+        body {
+            background-size: 3rem;
+        }
+        .game {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div class="loading-cy"></div> -->
+<iframe class="game" id="game" src="" frameborder="0"></iframe>
+
+<script>
+    //if(mjsdk.getLocalParams('MJ_username') == "s128261262"){
+    //    eruda.init()
+    //}
+    
+    function myGetParam(name) { // 从url中取参数
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+        var r = window.location.search.substr(1).match(reg);
+        if (r != null) return decodeURI(r[2]);
+        return null;
+    }
+
+    var game_id = myGetParam('g')
+    var package_name = myGetParam('p')
+    var device = myGetParam('dd')
+    var af_id = myGetParam('af_id')
+    var options = myGetParam('options')
+
+   
+    $.ajax({
+        url: "/?ct=gate&g="+game_id+"&p="+package_name+"&dd="+device+"&af_id="+af_id+"&options="+options,
+        type: "get",
+        dataType: "json",
+        success: function (res) {
+            if(res.state == 1){
+                $('#game').attr('src',res.data.url)
+            }else{
+                alert(res.msg)
+            }
+        }
+    });
+</script>
+
+</body>
+
+</html>

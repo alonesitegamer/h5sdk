@@ -1,0 +1,388 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>H5</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+	<link rel="shortcut icon" href="resource/assets/favicon.ico" type="image/x-icon" /> 
+    <style>
+        html, body {
+            -ms-touch-action: none;
+            background: #000000;
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+        }
+
+		#outLoadingLayer div{
+			display: block;
+		}
+		#outLoadingLayer{
+			z-index: 10000;
+			width: 100%;
+			height: 100%;
+			position: absolute;
+			top: 0px;
+		}
+		#loadingLayer{
+			width: 100%;
+			height: 100%;
+			background: #000000;
+		}
+		#logoDiv{
+			padding-top: 119px;
+		}
+		.fullWidth{
+			width: 100%;
+		}
+		#logoCon {
+			width: 310px;
+			height: 120px;
+			margin: 0 auto;
+			background-size: contain;
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+		#loadingContent {
+			padding-top: 20px;
+		}
+		#loadingTxt {
+			color: #b8b8b8;
+			font-size: 14px;
+			width: 100%;
+			text-align: center;
+			font-family: 微软雅黑;
+		}
+		#loadingBarCon {
+			width: 200px;
+			height: 6px;
+			margin: 23px auto 0;
+			-webkit-border-radius: 6px;
+			-moz-border-radius: 6px;
+			border-radius: 6px;
+			background: #343234;
+		}
+		#loadingBar {
+			margin: 0;
+			width: 200px;
+			height: 100%;
+			background: palegreen;
+			-webkit-border-radius: 6px;
+			-moz-border-radius: 6px;
+			border-radius: 6px;
+		}
+		.addTransition{
+			transform:scale(0.01, 1);
+			transform-origin:0% 0%;
+		}
+		.line-scale {
+			transition:All 1s ease-out;
+			transform:scale(0.96, 1);
+			transform-origin:0% 0%;
+		}
+		.clickme{
+			color:burlywood;
+		}
+		@font-face {
+            font-family: 'Microsoft YaHei';
+            src:url('./resource/assets/font/Lato-Regular.ttf') ;
+        }
+    </style>
+</head>
+<body>
+
+    <div style="margin: auto;width: 100%;height: 100%;" id="egret-player" class="egret-player"
+         data-entry-class="LoadingCls"
+         data-orientation="portrait"
+         data-scale-mode="fixedWidth"
+         data-frame-rate="60"
+         data-content-width="640"
+         data-content-height="1386"
+         data-show-paint-rect="false"
+         data-multi-fingered="2"
+         data-show-fps="false" data-show-log="false"
+         data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+
+    </div>
+
+	<div id="outLoadingLayer">
+		<div id="loadingLayer">
+			<div id="logoDiv" class="fullWidth">
+				<div id="logoCon"></div>
+			</div>
+			<div id="loadingContent" class="fullWidth">
+				<div id="loadingBarCon">
+					<div id="loadingBar" class="addTransition"></div>
+				</div>
+				<div id="loadingTxt">
+					<br />
+					<font color="#f69638" size="1">
+						<script>
+							function sclick() {
+								location.href = "";
+							}
+						</script>
+						<span id="loadingDesTxt">If you can't get into the game <a class="clickme" href="javascript:sclick();">click reload</a></span>
+					</font>
+					<br /><br />The first entry time is a little longer, please wait patiently
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="screenTip" style="display: none; position: absolute; z-index: 999; width:100%;height:100%; top:20px; text-align: center;"><img src="resource/assets/screentip.png?v=1000" /></div>
+
+    <script>
+		window.platform = 330
+		window.isDev = false
+		window.opl = false
+		window.scid = 3
+		window.channelFolder = "monster_foreign_en_maiji_h5_ios_w"
+		window.sdkName = 'Maiji_330_H5_A'
+		window.sdkJson = '{"_maijiChannelId":4}'
+		window.useCrc = true
+		window.useChannelBg = false;
+		window.useLoginBg = false;
+		window.channelResPath = null;
+		window.channelResModule = null; //["common/", "shop/"];
+		window.configFolder = "config"
+		window.useCacheAsBitmap = true;
+		window.version = "20241024736"
+		window.forceVersion = false;
+		window.isOversea = true;
+		window.isTest = false;
+		window.sdkTest = false;
+		window.runTime = false;
+		window.closeAutoDestroy = false;
+		window.logURL = 'https://game3.xjlgmkk.com:30098/';
+		window.errorURL = 'https://game3.xjlgmkk.com:30099/error';
+		window.chargingPoint = 'com.wt.xjl.';
+
+		window.xmQuickLogin = false; //留意,手动开启这个基本要同步开启isStoSDK; 并需检查SDK初始化是否有非登录的额外逻辑
+		window.isStoSDK = false;
+
+		// ------------------------------------------------------------------------ //
+		(function(){
+			var defaultIcon         = "https://c.ipyaoguai.com/monster_wanba/resource/assets/icon1.png";
+			var defaultShareIcon    = "https://c.ipyaoguai.com/monster_wanba/resource/assets/qzone_share_icon1.png";
+            window.GAME_NAME_CONFIG = {name: "IdlemonTales Let's Go!", logo: "", icon: defaultIcon, qzone_share_icon: defaultShareIcon, loadBg : "", loginBg : ""}
+			window.SERVER_CONFIG    = ["game3.xjlgmkk.com:30004"]
+			window["getGameNameConfig"] = function(){
+				return window.GAME_NAME_CONFIG
+			};
+			window.COPYRIGHT_CONFIG = ""
+			window["getCopyrightConfig"] = function(){
+				return window.COPYRIGHT_CONFIG
+			};
+
+			var cfg = getGameNameConfig();
+			window.document.title = cfg.name;
+			window.useChannelBg   = !!cfg.loadBg
+			window.useLoginBg     = !!cfg.loginBg
+
+			var logoImg = document.getElementById("logoCon");
+			logoImg.style.backgroundImage = "url(" + cfg.logo + "?v=1001)";
+
+			var myUrl = window.location.href;
+			if(window.OPEN_DATA && OPEN_DATA.appurl){
+                myUrl = OPEN_DATA.appurl
+            }
+			if (myUrl.indexOf("isDev=forceFalse") > 0){
+				window["sdkName"] = "DummySDK" // 防止替换
+				window.isDev   = false;
+			}
+
+			window.isTest = window.isTest || getQueryURL("forceTest", myUrl)
+			var loginServerByQuery = getQueryURL("loginServer", myUrl)
+			if (loginServerByQuery){
+				window.SERVER_CONFIG    = ["game3.xjlgmkk.com:30004"]
+			}
+            
+			var forceVersion = getQueryURL("forceVersion", myUrl)
+			if (forceVersion) {
+				window.forceVersion = true
+				window.version = forceVersion
+				loadScript("versionAutoGen." + forceVersion + ".js", function () {
+					console.warn("forceVersion loaded => " + forceVersion);
+				})
+			}
+			
+			var isStoSDK = window.isStoSDK || getQueryURL("isStoSDK", myUrl)
+			if (isStoSDK) {
+				window.isStoSDK = true;
+				if (!window.isStoGameUI) { //仅H5设置该字段
+					loadScript("stosdk_hw/10.0.2/jquery-3.6.0.min.js", function() {
+						console.warn("jquery loaded success");
+					})
+					loadScript("stosdk_hw/10.0.2/sto_sdk_hw_10.0.2.js?v=" + window.version, function () {
+						window.isStoSDK = true; //please not to change this line
+						console.warn("STOSDK loaded success");
+					})
+				}
+			}
+			
+            if(myUrl.indexOf("_wanba/") > 0){
+                var checkScreen = function(){
+                    var width  = window.screen.width
+                    var height = window.screen.height;
+                    if (height > width) {
+                        var tem = height
+                        height = width
+                        width = tem
+                    }
+                    var margin_toppx  = height/ 2 - 150
+                    var margin_leftpx = width / 2 - 163
+
+                    var tip = document.getElementById("screenTip")
+					var loading = document.getElementById("outLoadingLayer")
+					var gameCanvas = document.getElementById("egret-player")
+                    if (window.orientation == 90 || window.orientation == -90) {
+                        tip.style.display = "block"
+                        if(navigator.userAgent.indexOf(" OS ") == -1) {
+                            tip.style.left = margin_leftpx + 'px'
+                            tip.style.top = margin_toppx + 'px'
+                        }
+                        if(loading) {
+                            loading.style.display = "none"
+                        }
+                        gameCanvas.style.display = "none"
+                    } else {
+                        tip.style.display = "none"
+                        if(loading) {
+                            loading.style.display = "block"
+                        }
+                        gameCanvas.style.display = "block"
+                    }
+                }
+                window.addEventListener('orientationchange', checkScreen);
+                checkScreen();
+            }
+		})();
+
+		// ------------------------------------------------------------------------ //
+		function loadScript(src, callback) {
+			var s = document.createElement('script');
+			s.async = false;
+			s.src = src + "?v=" + window.version;
+			s.addEventListener('load', function () {
+				s.parentNode.removeChild(s);
+				s.removeEventListener('load', arguments.callee, false);
+				callback();
+			}, false);
+			s.onerror = function (e) {
+				// console.warn("123"+src);
+				s.parentNode.removeChild(s);
+				s.removeEventListener('load', arguments.callee, false);
+				setTimeout( function () {loadScript(src,callback);},5000);
+			} //1.单个重试
+			document.body.appendChild(s);
+		};
+
+		function loadScriptList(list, callback) {
+			var loaded = 0;
+			var start = 0;
+			var asyncLen = Math.min(list.length, 60);
+			var loadNext = function () {
+				var url = list[start]
+				if(url){
+					loadScript(url, function () {
+						loaded++;
+						if (loaded >= list.length) {
+							callback();
+						} else {
+							loadNext();
+						}
+					});
+				}
+				start++;
+			};
+			for (var i = 0; i < asyncLen; ++i) {
+				loadNext();
+			}
+		};
+
+		function getQueryURL(paramName, url) {
+			if (!url) { return ""; }
+			const  param = new RegExp("(^|)" + paramName + "=([^\&#]*)(\&|#|$)", "gi").exec(url);
+			return param ? ""+decodeURIComponent(param[2]) : "";
+		}
+		
+		var launchGame = function() {
+			var loadingBar = document.getElementById("loadingBar")
+			loadingBar.className = "line-scale"
+
+			var xhr = new XMLHttpRequest();
+			if (window.forceVersion) {
+				xhr.open('GET', './manifest.' + window.version + '.json?v=' + window.version, true);
+			} else {
+				xhr.open('GET', './manifest.20241024736.j' + 'son?v=' + window.version, true);
+			}
+			xhr.addEventListener("load", function () {
+				var isLoadGame = false
+				var onLoadFunc = false
+				var manifest = JSON.parse(xhr.response);
+				window["loadGame"] = function(callback) {
+					onLoadFunc = callback
+					isLoadGame && onLoadFunc && onLoadFunc()
+				}
+					
+				loadScriptList(manifest.initial.concat(["versionAutoGen.20241024736.js"]), function () {
+					/**
+					 * {
+					 * "renderMode":, //Engine rendering mode, "canvas" or "webgl"
+					 * "audioType": 0 //Use the audio type, 0: default, 2: web audio, 3: audio
+					 * "antialias": //Whether the anti-aliasing is enabled in WebGL mode, true: on, false: off, defaults to false
+					 * "calculateCanvasScaleFactor": //a function return canvas scale factor
+					 * }
+					 **/
+					egret.runEgret({ renderMode: "webgl", audioType: 0, antialias:false, calculateCanvasScaleFactor:function(context) {
+						if(egret.Capabilities.renderMode == "canvas"){
+							return 0.3;
+						} else {
+							var backingStore = context.backingStorePixelRatio ||
+								context.webkitBackingStorePixelRatio ||
+								context.mozBackingStorePixelRatio ||
+								context.msBackingStorePixelRatio ||
+								context.oBackingStorePixelRatio ||
+								context.backingStorePixelRatio || 1;
+							return (window.devicePixelRatio || 1) / backingStore;
+						}
+
+					}});
+
+					loadScriptList(manifest.game, ()=>{
+						isLoadGame = true
+						onLoadFunc && onLoadFunc()
+					});
+				});
+			});
+			xhr.send(null);
+		}
+		
+		if(window.runTime)
+		{
+			window.useCacheAsBitmap = false;
+			launchGame();
+		}
+		else 
+		{
+			// ------------------------------------------------------------------------ //
+			document.addEventListener("DOMContentLoaded", function(){setTimeout(function() {
+				launchGame();
+			}, 0)}, false);
+
+			document.body.addEventListener("blur", function(){
+				window.scrollTo(0,0);
+			},true);
+		}
+		
+
+    </script>
+</body>
+</html>

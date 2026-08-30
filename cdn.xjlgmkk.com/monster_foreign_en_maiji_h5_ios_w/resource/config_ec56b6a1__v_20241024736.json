@@ -1,0 +1,60 @@
+{
+"groups": [
+	 {
+		 "keys": "cq_0_json,cq_1_json,cq_2_json,cq_3_json,cq_4_json,cq_5_json,cq_6_json,cq_7_json,cq_8_json,cq_9_json",
+		 "name": "config_json"
+	 }
+],
+"resources": [
+	 {
+		 "name": "cq_0_json",
+		 "type": "json",
+		 "url": "config/cq_0.json"
+	 },
+	 {
+		 "name": "cq_1_json",
+		 "type": "json",
+		 "url": "config/cq_1.json"
+	 },
+	 {
+		 "name": "cq_2_json",
+		 "type": "json",
+		 "url": "config/cq_2.json"
+	 },
+	 {
+		 "name": "cq_3_json",
+		 "type": "json",
+		 "url": "config/cq_3.json"
+	 },
+	 {
+		 "name": "cq_4_json",
+		 "type": "json",
+		 "url": "config/cq_4.json"
+	 },
+	 {
+		 "name": "cq_5_json",
+		 "type": "json",
+		 "url": "config/cq_5.json"
+	 },
+	 {
+		 "name": "cq_6_json",
+		 "type": "json",
+		 "url": "config/cq_6.json"
+	 },
+	 {
+		 "name": "cq_7_json",
+		 "type": "json",
+		 "url": "config/cq_7.json"
+	 },
+	 {
+		 "name": "cq_8_json",
+		 "type": "json",
+		 "url": "config/cq_8.json"
+	 },
+	 {
+		 "name": "cq_9_json",
+		 "type": "json",
+		 "url": "config/cq_9.json"
+	 }
+]
+}

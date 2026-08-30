@@ -1,0 +1,14 @@
+{"file":"number_tower.png","frames":{
+"0":{"x":72,"y":73,"w":70,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"1":{"x":370,"y":73,"w":42,"h":71,"offX":14,"offY":0,"sourceW":72,"sourceH":72},
+"2":{"x":372,"y":0,"w":70,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"3":{"x":155,"y":0,"w":71,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"4":{"x":226,"y":73,"w":67,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"5":{"x":228,"y":0,"w":70,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"6":{"x":300,"y":0,"w":70,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"7":{"x":444,"y":0,"w":65,"h":71,"offX":4,"offY":0,"sourceW":72,"sourceH":72},
+"8":{"x":82,"y":0,"w":71,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"9":{"x":0,"y":67,"w":70,"h":71,"offX":0,"offY":0,"sourceW":72,"sourceH":72},
+"第":{"x":295,"y":73,"w":73,"h":62,"offX":5,"offY":6,"sourceW":80,"sourceH":72},
+"关":{"x":144,"y":73,"w":80,"h":62,"offX":0,"offY":5,"sourceW":80,"sourceH":72},
+"阶":{"x":0,"y":0,"w":80,"h":65,"offX":0,"offY":7,"sourceW":80,"sourceH":72}}}

@@ -1,0 +1,11 @@
+{"file":"number_arena3.png","frames":{
+"1":{"x":0,"y":79,"w":19,"h":40,"offX":10,"offY":6,"sourceW":38,"sourceH":52},
+"2":{"x":85,"y":78,"w":28,"h":39,"offX":5,"offY":7,"sourceW":38,"sourceH":52},
+"3":{"x":57,"y":40,"w":28,"h":39,"offX":5,"offY":7,"sourceW":38,"sourceH":52},
+"4":{"x":31,"y":0,"w":30,"h":40,"offX":4,"offY":6,"sourceW":38,"sourceH":52},
+"5":{"x":29,"y":40,"w":28,"h":40,"offX":5,"offY":6,"sourceW":38,"sourceH":52},
+"6":{"x":0,"y":40,"w":29,"h":39,"offX":5,"offY":7,"sourceW":38,"sourceH":52},
+"7":{"x":61,"y":0,"w":29,"h":40,"offX":5,"offY":6,"sourceW":38,"sourceH":52},
+"8":{"x":90,"y":39,"w":29,"h":39,"offX":5,"offY":7,"sourceW":38,"sourceH":52},
+"9":{"x":90,"y":0,"w":29,"h":39,"offX":5,"offY":7,"sourceW":38,"sourceH":52},
+"0":{"x":0,"y":0,"w":31,"h":40,"offX":4,"offY":6,"sourceW":38,"sourceH":52}}}
